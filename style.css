@@ -34,6 +34,7 @@ ul {
   justify-content: space-between;
   padding: 20px 100px;
   background-color: #1f2937;
+  flex-wrap: wrap;
 }
 button{
   border-radius: 8px;
