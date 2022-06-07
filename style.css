@@ -54,6 +54,7 @@ button{
   .container3{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
   }
 .subcontainer3{
   display: flex;
