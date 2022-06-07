@@ -50,7 +50,7 @@ button{
   }
 .right2{
   display: flex;
-  align-self: flex-end;
+  align-self: center;
   height: 180px;
   width: auto;
   }
